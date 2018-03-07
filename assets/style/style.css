@@ -1,50 +1,12 @@
-
-
-
-/* #propic {
-    height: 200px;
-    width: 200px;
-} */
-
-/* #foot {
-    text-align: center;
-    padding: 40px;
-    background-color: #777777;
-    border-top-width: 10px;
-    border-top-color: #4aaaa5;
-    border-top-style: solid;
-    color: #cccccc;
-    font-size: 10px;
-    
-} */
-
 h2, h4 {
-    /* color: #4aaaa5; */
     font-family: 'Georgia', Times, 'Times New Roman', serif;
-
 }
 
 .navbar-brand {
-    /* background-color: #4aaaa5;
-    padding: 30px; */
     font-family: 'Georgia', Times, 'Times New Roman', serif;
     font-size: 40px;
-    /* color: #ffffff; */
-
-
 }
 
-/* .nav-link {
-    color: #cccccc;
-    font-family: 
-}
-
-.navbar {
-    background-color: #ffffff;
-    border-bottom-color: #dddddd;
-    border-bottom-style: solid;
-    border-bottom-width: 2px;
-} */
 .col-md-3 {
     height: 200px;
 }
